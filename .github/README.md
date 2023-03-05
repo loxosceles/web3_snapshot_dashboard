@@ -3,3 +3,13 @@
 ## Description
 
 A Dashboard that shows recent trends on the Crypto Market.
+
+## Development
+
+### Backend
+
+TODO
+
+### Frontend
+
+TODO
