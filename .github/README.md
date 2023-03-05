@@ -8,8 +8,8 @@ A Dashboard that shows recent trends on the Crypto Market.
 
 ### Backend
 
-TODO
+TODO.
 
 ### Frontend
 
-TODO
+TODO.
